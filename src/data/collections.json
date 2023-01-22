@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Trippin' Ape Tribe",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_1.png"
+  },
+  {
+    "id": 2,
+    "name": "The Nice Guy",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_2.png"
+  },
+  {
+    "id": 3,
+    "name": "Banana's Peel",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_3.png"
+  },
+  {
+    "id": 4,
+    "name": "Idoitz Fantasy",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_4.png"
+  },
+  {
+    "id": 5,
+    "name": "Cool Cats",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_5.png"
+  },
+  {
+    "id": 6,
+    "name": "The Glitch Mon..",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_6.png"
+  },
+  {
+    "id": 7,
+    "name": "Bored Ape Yatc..",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_7.png"
+  },
+  {
+    "id": 8,
+    "name": "Make A Witch",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_8.png"
+  },
+  {
+    "id": 9,
+    "name": "Trippin' Ape",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_9.png"
+  },
+  {
+    "id": 10,
+    "name": "Sun And Sunset",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_10.png"
+  },
+  {
+    "id": 11,
+    "name": "Chinese Pie",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_11.png"
+  },
+  {
+    "id": 12,
+    "name": "Dead Skulls",
+    "floorPrice": 6.38,
+    "amount": 365.3,
+    "image": "/images/collections/collection_12.png"
+  }
+]
