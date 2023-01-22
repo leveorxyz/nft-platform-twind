@@ -1,13 +1,9 @@
 const Logo = () => {
   return (
-    <div className="text-3xl font-bold bg-clip-text uppercase text-bold logo-gradient tracking-wider">
-      NFT.MARKET
+    <div className="text-xl font-bold bg-clip-text uppercase text-bold logo-gradient tracking-wider md:text-3xl">
+      NFT.CART
     </div>
   );
-};
-
-Logo.defaultProps = {
-  fontSize: '32px',
 };
 
 export default Logo;
