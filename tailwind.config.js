@@ -91,9 +91,9 @@ module.exports = {
         width: 'width',
       },
       animation: {
-        fly: 'fly 6s cubic-bezier(0.75, 0.02, 0.31, 0.87) infinite',
+        fly: 'fly 5s cubic-bezier(0.75, 0.06, 0.45, 0.80) infinite',
         heartBeat: 'heartBeat 1s cubic-bezier(0.75, 0.02, 0.31, 0.87) infinite',
-        progress: 'progress 5s linear',
+        progress: 'progress 6s linear',
       },
       keyframes: {
         fly: {
