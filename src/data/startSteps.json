@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Connect your wallet",
+    "description": "Once You've Set Up Your Wallet Of Choice, Connect It To Block3 By Clicking The NFT Marketplace In The Top Right Corner.",
+    "icon": "/images/icons/wallet.svg"
+  },
+  {
+    "id": 2,
+    "title": "Create your NFT store",
+    "description": "Click Create And Set Up Your Collection. Add Social Links, Profile Images, And A Secondary Sales Fee.",
+    "icon": "/images/icons/nft.svg"
+  },
+  {
+    "id": 3,
+    "title": "Start selling & growing",
+    "description": "Choose Between Auctions, Fixed-Price Listings, And Declining-Price Listings. You Choose How You Want To Sell Your NFTs!",
+    "icon": "/images/icons/tag.svg"
+  }
+]
