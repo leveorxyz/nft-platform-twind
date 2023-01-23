@@ -27,9 +27,9 @@ const CollectionItem = ({ id, name, floorPrice, amount, image }: Props) => {
           <path
             d="M8.38086 12L10.7909 14.42L15.6209 9.57999"
             stroke="white"
-            stroke-width="1.5"
-            stroke-linecap="round"
-            stroke-linejoin="round"
+            strokeWidth="1.5"
+            strokeLinecap="round"
+            strokeLinejoin="round"
           />
         </svg>
       </figure>
@@ -43,7 +43,7 @@ const CollectionItem = ({ id, name, floorPrice, amount, image }: Props) => {
       </div>
       <div>
         <p className="font-display text-xs text-green mt-2 text-right">+67.80%</p>
-        <p className="dark:text-white text-sm font-bold mt-1.5">{amount} ETH</p>
+        <p className="dark:text-white text-sm font-bold mt-1.5 text-right">{amount} ETH</p>
       </div>
     </div>
   );

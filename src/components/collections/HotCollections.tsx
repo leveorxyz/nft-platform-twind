@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
-import CollectionDropdown from '../common/CollectionDropdown';
 import CollectionItem from './CollectionItem';
 import collections from '@/data/collections.json';
+import Dropdown from '../common/Dropdown';
 
 const LiveAuction = () => {
   return (
@@ -12,7 +12,10 @@ const LiveAuction = () => {
             <h5 className="font-display text-brand-700  text-3xl dark:text-white">
               Hot Collections in
             </h5>
-            <CollectionDropdown />
+            <Dropdown
+              title="Last 7 Days"
+              options={['Last 7 Days', 'Last 24 Hours', 'Last 30 Days']}
+            />
           </div>
           <a href="#!" className="text-md font-medium text-accent dark:text-brand-200">
             View All

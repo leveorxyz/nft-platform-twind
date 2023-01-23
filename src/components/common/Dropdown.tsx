@@ -1,14 +1,17 @@
 import { Menu, Transition } from '@headlessui/react';
 import { FaChevronDown } from 'react-icons/fa';
 
-const options = ['Last 7 Days', 'Last 24 Hours', 'Last 30 Days'];
+interface Props {
+  title: string;
+  options: string[];
+}
 
-const CollectionDropdown = () => {
+const Dropdown = ({ title, options }: Props) => {
   return (
-    <Menu as="div" className="relative inline-block text-left">
+    <Menu as="div" className="relative inline-block text-left z-10">
       <div>
         <Menu.Button className="flex w-full items-center font-display text-3xl gap-1 dark:text-accent">
-          Last 7 Days <FaChevronDown />
+          {title} <FaChevronDown />
         </Menu.Button>
       </div>
       <Transition
@@ -41,4 +44,4 @@ const CollectionDropdown = () => {
   );
 };
 
-export default CollectionDropdown;
+export default Dropdown;
