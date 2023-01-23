@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "title": "",
+    "image": "/images/nfts/item_1.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 2,
+    "title": "",
+    "image": "/images/nfts/item_2.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 3,
+    "title": "",
+    "image": "/images/nfts/item_3.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 4,
+    "title": "",
+    "image": "/images/nfts/item_4.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 5,
+    "title": "",
+    "image": "/images/nfts/item_5.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 6,
+    "title": "",
+    "image": "/images/nfts/item_6.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 7,
+    "title": "",
+    "image": "/images/nfts/item_7.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 8,
+    "title": "",
+    "image": "/images/nfts/item_8.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 9,
+    "title": "",
+    "image": "/images/nfts/item_9.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 10,
+    "title": "",
+    "image": "/images/nfts/item_10.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 11,
+    "title": "",
+    "image": "/images/nfts/item_11.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  },
+  {
+    "id": 12,
+    "title": "",
+    "image": "/images/nfts/item_12.jpg",
+    "sub_images": [
+      "/images/collections/collection_2.png",
+      "/images/collections/collection_3.png",
+      "/images/collections/collection_4.png"
+    ],
+    "creator_username": "SpaceXClub",
+    "creator_thumbnail": "/images/avatar.png",
+    "items_count": "6k"
+  }
+]
