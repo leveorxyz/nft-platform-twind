@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Wild Horn NFT Art",
+    "image": "/images/nfts/item_1.jpg",
+    "creatorName": "SpaceX Club",
+    "creatorAvatar": "/images/avatar.png"
+  },
+  {
+    "id": 1,
+    "title": "Wild Horn NFT Art",
+    "image": "/images/nfts/item_2.jpg",
+    "creatorName": "SpaceX Club",
+    "creatorAvatar": "/images/avatar.png"
+  },
+  {
+    "id": 1,
+    "title": "Wild Horn NFT Art",
+    "image": "/images/nfts/item_3.jpg",
+    "creatorName": "SpaceX Club",
+    "creatorAvatar": "/images/avatar.png"
+  },
+  {
+    "id": 1,
+    "title": "Wild Horn NFT Art",
+    "image": "/images/nfts/item_4.jpg",
+    "creatorName": "SpaceX Club",
+    "creatorAvatar": "/images/avatar.png"
+  },
+  {
+    "id": 1,
+    "title": "Wild Horn NFT Art",
+    "image": "/images/nfts/item_5.jpg",
+    "creatorName": "SpaceX Club",
+    "creatorAvatar": "/images/avatar.png"
+  }
+]
