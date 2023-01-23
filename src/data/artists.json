@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ralph Edwards",
+    "avatar": "/images/artist/avatars/avatar_1.jpeg",
+    "cover": "/images/artist/covers/cover_1.png"
+  },
+  {
+    "id": 2,
+    "name": "Dianne Russell",
+    "avatar": "/images/artist/avatars/avatar_2.jpeg",
+    "cover": "/images/artist/covers/cover_2.png"
+  },
+  {
+    "id": 3,
+    "name": "Jane Cooper",
+    "avatar": "/images/artist/avatars/avatar_3.jpeg",
+    "cover": "/images/artist/covers/cover_3.png"
+  },
+  {
+    "id": 4,
+    "name": "Kristin Watson",
+    "avatar": "/images/artist/avatars/avatar_4.jpeg",
+    "cover": "/images/artist/covers/cover_4.png"
+  },
+  {
+    "id": 5,
+    "name": "Mark Basa",
+    "avatar": "/images/artist/avatars/avatar_5.jpeg",
+    "cover": "/images/artist/covers/cover_5.png"
+  },
+  {
+    "id": 6,
+    "name": "Ronald Richards",
+    "avatar": "/images/artist/avatars/avatar_6.jpeg",
+    "cover": "/images/artist/covers/cover_6.png"
+  },
+  {
+    "id": 7,
+    "name": "Devon Lane",
+    "avatar": "/images/artist/avatars/avatar_7.jpeg",
+    "cover": "/images/artist/covers/cover_7.png"
+  },
+  {
+    "id": 8,
+    "name": "Darrell Steward",
+    "avatar": "/images/artist/avatars/avatar_8.jpeg",
+    "cover": "/images/artist/covers/cover_8.png"
+  },
+  {
+    "id": 9,
+    "name": "Jerome Bell",
+    "avatar": "/images/artist/avatars/avatar_9.jpeg",
+    "cover": "/images/artist/covers/cover_9.png"
+  },
+  {
+    "id": 10,
+    "name": "Guy Hawkins",
+    "avatar": "/images/artist/avatars/avatar_10.jpeg",
+    "cover": "/images/artist/covers/cover_10.png"
+  },
+  {
+    "id": 11,
+    "name": "Jerome Bell",
+    "avatar": "/images/artist/avatars/avatar_11.jpeg",
+    "cover": "/images/artist/covers/cover_11.png"
+  },
+  {
+    "id": 12,
+    "name": "Darlene Robertson",
+    "avatar": "/images/artist/avatars/avatar_12.jpeg",
+    "cover": "/images/artist/covers/cover_12.png"
+  }
+]
