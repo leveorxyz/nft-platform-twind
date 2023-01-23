@@ -61,7 +61,15 @@ const Footer = () => {
         <div className="flex flex-col items-center justify-between space-y-2 py-8 sm:flex-row sm:space-y-0">
           <span className="dark:text-brand-400 text-sm">
             <span>&copy; {new Date().getFullYear()} </span>
-            <a className="hover:text-accent dark:hover:text-white"> Leveor</a> <span></span>
+            <a
+              href="https://leveor.xyz"
+              target="_blank"
+              rel="noreferrer"
+              className="hover:text-accent dark:hover:text-white"
+            >
+              Leveor
+            </a>
+            <span></span>
           </span>
 
           <ul className="dark:text-brand-400 flex flex-wrap space-x-4 text-sm">

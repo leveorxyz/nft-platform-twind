@@ -58,17 +58,5 @@
     "name": "Guy Hawkins",
     "avatar": "/images/artist/avatars/avatar_10.jpeg",
     "cover": "/images/artist/covers/cover_10.png"
-  },
-  {
-    "id": 11,
-    "name": "Jerome Bell",
-    "avatar": "/images/artist/avatars/avatar_11.jpeg",
-    "cover": "/images/artist/covers/cover_11.png"
-  },
-  {
-    "id": 12,
-    "name": "Darlene Robertson",
-    "avatar": "/images/artist/avatars/avatar_12.jpeg",
-    "cover": "/images/artist/covers/cover_12.png"
   }
 ]
