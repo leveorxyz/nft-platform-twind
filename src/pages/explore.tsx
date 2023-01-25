@@ -1,28 +1,34 @@
 import type { NextPage } from 'next';
+import { motion } from 'framer-motion';
 import HeaderOne from '@/components/headers/HeaderOne';
-import Footer from '@/components/layout/Footer';
-import HeroOne from '@/components/hero/HeroOne';
-import NotableCollections from '@/components/collections/NotableCollections';
-import GetStarted from '@/components/getstarted/GetStarted';
-import LiveAuction from '@/components/auctions/LiveAuction';
-import HotCollections from '@/components/collections/HotCollections';
-import CoverflowCarousel from '@/components/carousel/CoverflowCarousel';
-import ExploreCollections from '@/components/collections/ExploreCollections';
-import FeaturedArtists from '@/components/artist/FeaturedArtists';
 import Breadcrumbs from '@/components/common/Breadcrumbs';
+import ExploreTabs from '@/components/collections/ExploreTabs';
+import ExploreCard from '@/components/cards/ExploreCard';
+import exploreData from '@/data/exploreData.json';
+import Footer from '@/components/layout/Footer';
 
 const Explore: NextPage = () => {
   return (
     <main>
       <HeaderOne />
       <Breadcrumbs pageName="explore NFTs" />
-      <NotableCollections />
-      <GetStarted />
-      <LiveAuction />
-      <HotCollections />
-      <CoverflowCarousel />
-      <ExploreCollections />
-      <FeaturedArtists />
+      <div className="container pt-10">
+        <ExploreTabs />
+        <motion.div
+          initial={{ opacity: 0 }}
+          whileInView={{ opacity: 1 }}
+          className="mt-10 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-10 justify-center"
+        >
+          {exploreData.map((item) => (
+            <ExploreCard key={item.id} {...item} />
+          ))}
+        </motion.div>
+        <div className="flex justify-center mt-10">
+          <button className="bg-accent shadow-accent-volume hover:bg-accent-dark w-36 rounded-md py-3 px-8 text-center font-semibold text-white transition-all">
+            Load More
+          </button>
+        </div>
+      </div>
       <Footer />
     </main>
   );
