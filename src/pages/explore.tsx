@@ -9,12 +9,13 @@ import HotCollections from '@/components/collections/HotCollections';
 import CoverflowCarousel from '@/components/carousel/CoverflowCarousel';
 import ExploreCollections from '@/components/collections/ExploreCollections';
 import FeaturedArtists from '@/components/artist/FeaturedArtists';
+import Breadcrumbs from '@/components/common/Breadcrumbs';
 
-const Home: NextPage = () => {
+const Explore: NextPage = () => {
   return (
     <main>
       <HeaderOne />
-      <HeroOne />
+      <Breadcrumbs pageName="explore NFTs" />
       <NotableCollections />
       <GetStarted />
       <LiveAuction />
@@ -27,4 +28,4 @@ const Home: NextPage = () => {
   );
 };
 
-export default Home;
+export default Explore;

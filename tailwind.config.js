@@ -83,6 +83,9 @@ module.exports = {
     },
 
     extend: {
+      backgroundImage: {
+        hero: "url('/images/cover.jpeg')",
+      },
       borderRadius: {
         '2lg': '0.625rem',
       },
