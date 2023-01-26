@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
+import { Menu, Transition } from '@headlessui/react';
 import DarkMode from '../darkmode/DarkMode';
 import Logo from '../Logo/Logo';
 import SearchForm from './SearchForm';
 import AccountMenu from './AccountMenu';
 import MobileHeader from './MobileHeader';
 import MobileMenu from './MobileMenu';
+import PagesDropdown from './PagesDropdown';
 
 export default function Header01() {
   const [isVisible, setIsVisible] = useState(false);
@@ -42,6 +44,9 @@ export default function Header01() {
                     </button>
                   </Link>
                 </li>
+
+                <PagesDropdown />
+
                 <li className="group">
                   <Link href="/explore">
                     <button className="text-brand-700 font-display hover:text-accent focus:text-accent dark:hover:text-accent dark:focus:text-accent flex items-center justify-between py-3.5 text-base dark:text-white lg:px-5">

@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Logo from '../Logo/Logo';
 import socialIcons from '@/data/footer/social_icons.json';
+import PagesDropdown from './PagesDropdown';
 
 interface Props {
   isVisible: boolean;
@@ -63,6 +64,7 @@ const MobileMenu = ({ isVisible, toggleHandler }: Props) => {
               </button>
             </Link>
           </li>
+          <PagesDropdown />
           <li className="group">
             <Link href="/explore">
               <button className="text-brand-700 font-display hover:text-accent focus:text-accent dark:hover:text-accent dark:focus:text-accent flex items-center justify-between py-3.5 text-base dark:text-white lg:px-5">
