@@ -2,8 +2,8 @@ import offers from '@/data/offers.json';
 
 const Offer = () => {
   return (
-    <table className="min-w-full divide-y divide-brand-100 dark:bg-brand-700  dark:border-brand-600 dark:divide-brand-600">
-      <thead className="bg-light-base dark:bg-brand-600 dark:border-brand-60">
+    <table className="min-w-full divide-y divide-brand-100 border border-brand-100 dark:bg-brand-700  dark:border-brand-600 dark:divide-brand-600">
+      <thead className="bg-light-base dark:bg-brand-600">
         <tr>
           {labels.map((label) => (
             <th
