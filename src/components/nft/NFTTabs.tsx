@@ -2,6 +2,7 @@ import { Tab } from '@headlessui/react';
 import Activities from './tabs/Activities';
 import Details from './tabs/Details';
 import Offer from './tabs/Offer';
+import PriceHistory from './tabs/PriceHistory';
 import Properties from './tabs/Properties';
 
 const tabs = [
@@ -9,7 +10,7 @@ const tabs = [
   { name: 'Properties', icon: 'properties', panel: <Properties /> },
   { name: 'Details', icon: 'details', panel: <Details /> },
   { name: 'Activities', icon: 'activity', panel: <Activities /> },
-  { name: 'Price History', icon: 'price', panel: <Offer /> },
+  { name: 'Price History', icon: 'price', panel: <PriceHistory /> },
 ];
 
 const NFTTabs = () => {
