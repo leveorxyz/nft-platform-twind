@@ -1,3 +1,5 @@
+import MoreCollections from '../collections/MoreCollections';
+import CountdownTimer from './CoundownTimer';
 import NFTTabs from './NFTTabs';
 
 const NFTDetails = () => {
@@ -20,7 +22,7 @@ const NFTDetails = () => {
             <div className="md:w-3/5 md:basis-auto md:pl-8 lg:w-1/2 lg:pl-[3.75rem]">
               <div className="mb-3 flex">
                 <div className="flex items-center">
-                  <a className="text-accent mr-2 text-sm font-bold">CryptoGuysNFT</a>
+                  <a className="text-accent mr-2 text-sm font-bold">Nyolings</a>
                   <span
                     className="dark:border-brand-600 bg-green inline-flex h-6 w-6 items-center justify-center rounded-full border-2 border-white"
                     data-tippy-content="Verified Collection"
@@ -40,9 +42,6 @@ const NFTDetails = () => {
                     </button>
                     <span className="dark:text-brand-200 text-sm">99</span>
                   </div>
-
-                  {/* <!-- Actions --> */}
-                  {/* <Auctions_dropdown classes="dark:border-brand-600 dark:hover:bg-brand-600 border-brand-100 dropdown hover:bg-brand-100 dark:bg-brand-700 rounded-xl border bg-white" /> */}
                 </div>
               </div>
 
@@ -89,11 +88,11 @@ const NFTDetails = () => {
                   </figure>
                   <div className="flex flex-col justify-center">
                     <span className="text-brand-400 block text-sm dark:text-white">
-                      Creator <strong>10% royalties</strong>
+                      Creator <strong>5% royalties</strong>
                     </span>
 
                     <a className="text-accent block">
-                      <span className="text-sm font-bold">John Doe</span>
+                      <span className="text-sm font-bold">Thappier Fresco</span>
                     </a>
                   </div>
                 </div>
@@ -138,7 +137,7 @@ const NFTDetails = () => {
                       </span>
 
                       <a className="text-accent text-sm font-bold">
-                        0x695d2ef170ce69e794707eeef9497af2de25df82
+                        0xAaC0c3338A52e5D8D98bDdf8C5C5F54b093Ac49f
                       </a>
                     </div>
                     <div className="mt-3 flex">
@@ -161,12 +160,10 @@ const NFTDetails = () => {
                           </span>
 
                           <span className="text-green text-lg font-medium leading-tight tracking-tight">
-                            43 ETH
+                            55 ETH
                           </span>
                         </div>
-                        <span className="dark:text-brand-300 text-brand-400 text-sm">
-                          ~10,864.10
-                        </span>
+                        <span className="dark:text-brand-300 text-brand-400 text-sm">~99999</span>
                       </div>
                     </div>
                   </div>
@@ -175,7 +172,7 @@ const NFTDetails = () => {
                     <span className="js-countdown-ends-label text-brand-400 dark:text-brand-300 text-sm">
                       Auction ends in
                     </span>
-                    {/* <Items_Countdown_timer time={+auction_timer} /> */}
+                    <CountdownTimer />
                   </div>
                 </div>
 
@@ -186,6 +183,7 @@ const NFTDetails = () => {
             </div>
           </div>
           <NFTTabs />
+          <MoreCollections />
         </div>
       </section>
     </>

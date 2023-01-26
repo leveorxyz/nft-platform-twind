@@ -38,7 +38,20 @@ const PriceHistory = () => {
 
 export default PriceHistory;
 
-const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
+const labels = [
+  'January',
+  'February',
+  'March',
+  'April',
+  'May',
+  'June',
+  'July',
+  'August',
+  'September',
+  'October',
+  'November',
+  'December',
+];
 
 export const data: ChartData = {
   labels,
@@ -47,13 +60,13 @@ export const data: ChartData = {
       label: 'Avg. price',
       backgroundColor: '#10B981',
       borderColor: '#10B981',
-      data: [54.73, 64, 53, 96, 130, 100, 102.88],
+      data: [54.73, 64, 53, 96, 130, 100, 102.88, 43, 64, 69, 80, 125],
     },
     {
       type: 'bar',
       label: 'Sales',
       backgroundColor: '#ccc',
-      data: [25, 20, 40, 130, 75, 48, 12],
+      data: [25, 20, 40, 130, 75, 48, 12, 56, 87, 24, 79, 150],
     },
   ],
 };
