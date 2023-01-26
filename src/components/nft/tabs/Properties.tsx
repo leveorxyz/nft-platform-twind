@@ -1,4 +1,4 @@
-export const Properties = () => {
+const Properties = () => {
   return (
     <div className="border-brand-100 border bg-white p-6 md:p-10 dark:bg-brand-700 dark:border-brand-600 ">
       <div className="grid grid-cols-2 gap-5 sm:grid-cols-3 md:grid-cols-4">
@@ -17,6 +17,8 @@ export const Properties = () => {
     </div>
   );
 };
+
+export default Properties;
 
 const data = [
   { category: 'background', value: 'mint', description: '6% have this traits' },
