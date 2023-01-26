@@ -4,83 +4,95 @@
     "name": "Trippin' Ape Tribe",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_1.png"
+    "image": "/images/collections/collection_1.png",
+    "change": 2.3
   },
   {
     "id": 2,
     "name": "The Nice Guy",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_2.png"
+    "image": "/images/collections/collection_2.png",
+    "change": -5
   },
   {
     "id": 3,
     "name": "Banana's Peel",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_3.png"
+    "image": "/images/collections/collection_3.png",
+    "change": 2.46
   },
   {
     "id": 4,
     "name": "Idoitz Fantasy",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_4.png"
+    "image": "/images/collections/collection_4.png",
+    "change": -9.5
   },
   {
     "id": 5,
     "name": "Cool Cats",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_5.png"
+    "image": "/images/collections/collection_5.png",
+    "change": -1.12
   },
   {
     "id": 6,
     "name": "The Glitch Mon..",
     "floorPrice": 6.38,
-    "amount": 365.3,
-    "image": "/images/collections/collection_6.png"
+    "amount": 7.5,
+    "image": "/images/collections/collection_6.png",
+    "change": 2.12
   },
   {
     "id": 7,
     "name": "Bored Ape Yatc..",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_7.png"
+    "image": "/images/collections/collection_7.png",
+    "change": 4.66
   },
   {
     "id": 8,
     "name": "Make A Witch",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_8.png"
+    "image": "/images/collections/collection_8.png",
+    "change": 6.76
   },
   {
     "id": 9,
     "name": "Trippin' Ape",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_9.png"
+    "image": "/images/collections/collection_9.png",
+    "change": -4.9
   },
   {
     "id": 10,
     "name": "Sun And Sunset",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_10.png"
+    "image": "/images/collections/collection_10.png",
+    "change": -4.45
   },
   {
     "id": 11,
     "name": "Chinese Pie",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_11.png"
+    "image": "/images/collections/collection_11.png",
+    "change": -2.33
   },
   {
     "id": 12,
     "name": "Dead Skulls",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_12.png"
+    "image": "/images/collections/collection_12.png",
+    "change": 2.3
   }
 ]
