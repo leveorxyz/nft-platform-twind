@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "price": 0.001,
+    "usdPrice": 345.0,
+    "floorDifference": "31% below",
+    "expiration": "11 mins",
+    "from": "KatsuBox"
+  },
+  {
+    "id": 2,
+    "price": 0.001,
+    "usdPrice": 345.0,
+    "floorDifference": "31% below",
+    "expiration": "11 mins",
+    "from": "KatsuBox"
+  },
+  {
+    "id": 3,
+    "price": 0.001,
+    "usdPrice": 345.0,
+    "floorDifference": "31% below",
+    "expiration": "11 mins",
+    "from": "KatsuBox"
+  },
+  {
+    "id": 4,
+    "price": 0.001,
+    "usdPrice": 345.0,
+    "floorDifference": "31% below",
+    "expiration": "11 mins",
+    "from": "KatsuBox"
+  },
+  {
+    "id": 5,
+    "price": 0.001,
+    "usdPrice": 345.0,
+    "floorDifference": "31% below",
+    "expiration": "11 mins",
+    "from": "KatsuBox"
+  }
+]
