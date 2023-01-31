@@ -1,4 +1,5 @@
 import type { NextPage } from 'next';
+import { NextSeo } from 'next-seo';
 import HeaderOne from '@/components/headers/HeaderOne';
 import Footer from '@/components/layout/Footer';
 import HeroOne from '@/components/hero/HeroOne';
@@ -13,6 +14,10 @@ import FeaturedArtists from '@/components/artist/FeaturedArtists';
 const Home: NextPage = () => {
   return (
     <main>
+      <NextSeo
+        title="NFT Cart, the largest NFT marketplace"
+        description="NFT Cart is the world's first and largest web3 marketplace for NFTs and crypto collectibles. Browse, create, buy, sell, and auction NFTs using OpenSea today."
+      />
       <HeaderOne />
       <HeroOne />
       <NotableCollections />
