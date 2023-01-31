@@ -49,5 +49,6 @@ const pages = [
   { name: 'Explore', link: '/explore' },
   { name: 'NFT Details', link: '/nft/1' },
   { name: 'Stats', link: '/stats' },
+  { name: 'My Profile', link: '/my-profile' },
   { name: 'Not Found', link: '/404' },
 ];
