@@ -15,8 +15,8 @@ const Home: NextPage = () => {
   return (
     <main>
       <NextSeo
-        title="NFT Cart, the largest NFT marketplace"
-        description="NFT Cart is the world's first and largest web3 marketplace for NFTs and crypto collectibles. Browse, create, buy, sell, and auction NFTs using OpenSea today."
+        title="NFT ArtCart, the largest NFT marketplace"
+        description="NFT ArtCart is the world's first and largest web3 marketplace for NFTs and crypto collectibles. Browse, create, buy, sell, and auction NFTs using OpenSea today."
       />
       <HeaderOne />
       <HeroOne />

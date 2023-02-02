@@ -14,7 +14,7 @@ const { chains, provider } = configureChains(
 );
 
 const { connectors } = getDefaultWallets({
-  appName: 'NFT Cart',
+  appName: 'NFT ArtCart',
   chains,
 });
 
