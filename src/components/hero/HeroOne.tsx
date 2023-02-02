@@ -17,8 +17,9 @@ const HeroOne = () => {
               Explore, collect, and sell NFTs
             </h1>
             <p className="dark:text-brand-200 mb-8 text-center text-lg md:text-left">
-              The World&apos;s Largest Digital Marketplace For Crypto Collectibles And Non-Fungible
-              Tokens (NFTs)
+              Introducing our NFT ARTCART, where the world of NFT art meets the cutting-edge
+              technology of blockchain and we are bringing the world&apos;s digital art to your
+              screen.
             </p>
             <div className="flex space-x-4">
               <Link
