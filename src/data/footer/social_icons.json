@@ -1,37 +1,32 @@
 [
   {
     "id": 1,
-    "link": "https://www.twitter.com",
+    "link": "https://twitter.com/leveorxyz",
     "icon": "twitter"
   },
   {
     "id": 2,
-    "link": "https://www.discord.com",
-    "icon": "discord"
-  },
-  {
-    "id": 3,
-    "link": "https://www.instagram.com",
-    "icon": "instagram"
-  },
-  {
-    "id": 4,
-    "link": "https://www.facebook.com",
-    "icon": "facebook"
-  },
-  {
-    "id": 5,
-    "link": "https://www.linkedin.com",
+    "link": "https://www.linkedin.com/company/leveorxyz/",
     "icon": "linkedin"
   },
   {
-    "id": 6,
-    "link": "https://www.tiktok.com",
-    "icon": "tiktok"
+    "id": 3,
+    "link": "https://www.facebook.com/leveorxyz/",
+    "icon": "facebook"
   },
   {
-    "id": 7,
-    "link": "https://www.reddit.com",
-    "icon": "reddit"
+    "id": 4,
+    "link": "https://github.com/leveorxyz/",
+    "icon": "github"
+  },
+  {
+    "id": 5,
+    "link": "https://www.youtube.com/@leveorxyz",
+    "icon": "youtube"
+  },
+  {
+    "id": 6,
+    "link": "https://www.leveor.xyz/",
+    "icon": "world"
   }
 ]
