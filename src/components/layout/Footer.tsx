@@ -13,9 +13,10 @@ const Footer = () => {
               <Logo />
             </Link>
 
-            <p className="dark:text-brand-300 mb-12">
-              The world&apos;s largest digital marketplace for crypto collectibles and non-fungible
-              tokens (NFTs). Buy, sell, and discover exclusive digital items.
+            <p className="dark:text-brand-300 mb-12 normal-case">
+              Join our community of art enthusiasts and collectors to experience the endless
+              possibilities of the digital realm. Contact us to get your custom NFT art marketplace
+              at contact@leveor.xyz
             </p>
 
             <div className="flex space-x-5">
