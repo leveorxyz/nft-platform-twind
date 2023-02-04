@@ -10,8 +10,10 @@ const ProfileTabs = () => {
           <Tab key={tab}>
             {({ selected }) => (
               <button
-                className={`px-3 py-2 font-medium text-sm rounded-md cursor-pointer capitalize hover:bg-accent  ${
-                  selected ? 'bg-accent text-indigo-700' : 'text-gray-500 hover:text-gray-700'
+                className={`px-3 py-2 font-medium text-sm rounded-md cursor-pointer capitalize hover:bg-accent hover:text-white  ${
+                  selected
+                    ? 'bg-accent text-indigo-700 text-white'
+                    : 'text-gray-500 hover:text-gray-700'
                 }`}
               >
                 {tab}
