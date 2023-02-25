@@ -41,7 +41,7 @@ const HeroOne = () => {
           <div className="col-span-6 xl:col-span-7">
             <div className="relative text-center md:pl-8 md:text-right animate-fly">
               <img
-                src="/images/hero/hero.jpg"
+                src="https://via.placeholder.com/560"
                 alt=""
                 className="rounded-[20%] mt-8 inline-block w-72 rotate-[8deg] sm:w-full lg:w-[24rem] xl:w-[35rem]"
               />

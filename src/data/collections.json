@@ -4,7 +4,7 @@
     "name": "Trippin' Ape Tribe",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_1.png",
+    "image": "https://via.placeholder.com/130",
     "change": 2.3
   },
   {
@@ -12,7 +12,7 @@
     "name": "The Nice Guy",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_2.png",
+    "image": "https://via.placeholder.com/130",
     "change": -5
   },
   {
@@ -20,7 +20,7 @@
     "name": "Banana's Peel",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_3.png",
+    "image": "https://via.placeholder.com/130",
     "change": 2.46
   },
   {
@@ -28,7 +28,7 @@
     "name": "Idoitz Fantasy",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_4.png",
+    "image": "https://via.placeholder.com/130",
     "change": -9.5
   },
   {
@@ -36,7 +36,7 @@
     "name": "Cool Cats",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_5.png",
+    "image": "https://via.placeholder.com/130",
     "change": -1.12
   },
   {
@@ -44,7 +44,7 @@
     "name": "The Glitch Mon..",
     "floorPrice": 6.38,
     "amount": 7.5,
-    "image": "/images/collections/collection_6.png",
+    "image": "https://via.placeholder.com/130",
     "change": 2.12
   },
   {
@@ -52,7 +52,7 @@
     "name": "Bored Ape Yatc..",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_7.png",
+    "image": "https://via.placeholder.com/130",
     "change": 4.66
   },
   {
@@ -60,7 +60,7 @@
     "name": "Make A Witch",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_8.png",
+    "image": "https://via.placeholder.com/130",
     "change": 6.76
   },
   {
@@ -68,7 +68,7 @@
     "name": "Trippin' Ape",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_9.png",
+    "image": "https://via.placeholder.com/130",
     "change": -4.9
   },
   {
@@ -76,7 +76,7 @@
     "name": "Sun And Sunset",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_10.png",
+    "image": "https://via.placeholder.com/130",
     "change": -4.45
   },
   {
@@ -84,7 +84,7 @@
     "name": "Chinese Pie",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_11.png",
+    "image": "https://via.placeholder.com/130",
     "change": -2.33
   },
   {
@@ -92,7 +92,7 @@
     "name": "Dead Skulls",
     "floorPrice": 6.38,
     "amount": 365.3,
-    "image": "/images/collections/collection_12.png",
+    "image": "https://via.placeholder.com/130",
     "change": 2.3
   }
 ]

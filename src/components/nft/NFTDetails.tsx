@@ -13,7 +13,7 @@ const NFTDetails = () => {
           <div className="md:flex md:flex-wrap">
             <div className="mb-8 md:w-2/5 md:flex-shrink-0 md:flex-grow-0 md:basis-auto lg:w-1/2 w-full">
               <img
-                src="/images/nfts/single-nft.jpeg"
+                src="https://via.placeholder.com/600"
                 alt="Image"
                 className="rounded-lg cursor-pointer w-full"
               />
@@ -74,7 +74,7 @@ const NFTDetails = () => {
                   <figure className="mr-4 shrink-0">
                     <a className="relative block">
                       <img
-                        src="/images/avatar.png"
+                        src="https://via.placeholder.com/130"
                         alt="creator"
                         className="rounded-2lg h-12 w-12"
                         loading="lazy"
@@ -101,7 +101,7 @@ const NFTDetails = () => {
                   <figure className="mr-4 shrink-0">
                     <a className="relative block">
                       <img
-                        src="/images/artist/avatars/avatar_1.jpeg"
+                        src="https://via.placeholder.com/130"
                         alt="owner"
                         className="rounded-2lg h-12 w-12"
                         loading="lazy"
@@ -144,7 +144,7 @@ const NFTDetails = () => {
                       <figure className="mr-4 shrink-0">
                         <a className="relative block">
                           <img
-                            src="/images/artist/avatars/avatar_2.jpeg"
+                            src="https://via.placeholder.com/130"
                             alt="avatar"
                             className="rounded-2lg h-12 w-12"
                             loading="lazy"

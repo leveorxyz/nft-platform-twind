@@ -9,7 +9,7 @@ const CollectionInfo = () => {
       <div className="relative">
         <div>
           <img
-            src="/images/avatar2.png"
+            src="https://via.placeholder.com/130"
             alt="avatar"
             className="absolute -top-12 left-0 rounded-full w-24 border border-white"
           />
