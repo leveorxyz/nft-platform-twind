@@ -19,8 +19,6 @@ const NotFound: NextPage = () => {
 
       <div className="container py-20">
         <div className="flex flex-col max-w-3xl mx-auto items-center">
-          <img src="/images/404.png" alt="404" />
-
           <h1 className="text-brand-700 font-display my-6 text-4xl dark:text-white md:text-6xl">
             Page Not Found!
           </h1>
